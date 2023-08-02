@@ -1,7 +1,34 @@
-# Pixhawk_first_drone
+# First Pixhawk-based drone with custom testbench and PWM to PPM encoder
 This project was the first time we were able to use Pixhawk as FCU for our quadcopter.
 
+
+
+https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/d39a4d22-bd85-4017-9255-9b2c743ccf93
+
+
+
+## What we did extra:
+
+We lacked a PPM-based transmitter and receiver (PWM based was available), but Pixhawk takes input only in PPM, so we made a PWM to PPM encoder using Arduino for this project.
+
+![20221229_145014](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/62b83db1-e85b-4265-8906-bb4eebd7253c)
+![20221229_145009](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/339e9843-f66a-4b3e-8ed1-eca8986d08a7)
+
 Also, for testing and calibrating the Kp, Kd and Ki for the stability of drones, we created a makeshift testbench in this project.
+
+
+
+
+https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/55173f17-4279-4536-af47-ba6bb11343d9
+
+
+## Some Photos and videos of the drone:
+
+![20221109_131208](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/b38bc7d2-755c-488c-b6c8-9957d6ac7aa7)
+![20221109_131147](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/442b2f5a-ce74-48a8-a8ce-c820206aae1b)
+![20221109_131142](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/8caca027-869f-40eb-af68-3e3f5f99cab0)
+![20221109_131136](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/7a456f81-3054-4e97-82af-8f565e5360df)
+
 
 ## Credits: 
 _This was made by [me](https://chiragkotian.github.io), Aman Kumar and [Arpit](https://github.com/arpitguptagithub)._
