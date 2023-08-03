@@ -22,12 +22,7 @@ Also, for testing and calibrating the Kp, Kd and Ki for the stability of drones,
 https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/55173f17-4279-4536-af47-ba6bb11343d9
 
 
-## Some Photos and videos of the drone:
 
-![20221109_131208](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/b38bc7d2-755c-488c-b6c8-9957d6ac7aa7)
-![20221109_131147](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/442b2f5a-ce74-48a8-a8ce-c820206aae1b)
-![20221109_131142](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/8caca027-869f-40eb-af68-3e3f5f99cab0)
-![20221109_131136](https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/7a456f81-3054-4e97-82af-8f565e5360df)
 
 
 ## Credits: 
