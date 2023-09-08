@@ -26,4 +26,4 @@ https://github.com/ChiragKotian/Pixhawk_first_drone/assets/117931123/55173f17-42
 
 
 ## Credits: 
-_This was made by [me](https://chiragkotian.github.io), Aman Kumar and [Arpit](https://github.com/arpitguptagithub)._
+_This was made by [me](https://chiragkotian.github.io), [Aman Kumar](https://github.com/Amankumar8555) and [Arpit](https://github.com/arpitguptagithub)._
